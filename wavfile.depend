@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646142952 source:c:\users\aditya s\desktop\code\wavfile\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
